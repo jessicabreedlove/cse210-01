@@ -1,4 +1,5 @@
-# Jessica Reece Tick-Tack-Toe 
+# Jessica Reece 
+# Tick-Tack-Toe 
 # 1/10/2022
 
 def main():
